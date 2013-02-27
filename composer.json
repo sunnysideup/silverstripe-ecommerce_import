@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/ecommerce_import",
+	"name": "sunnysideup/ecommerce_import",
 	"type": "silverstripe-module",
 	"description": "import products and product variation into your silverstripe ecommerce application using a csv file ",
 	"homepage": "http://www.silverstripe-ecommerce.com",
